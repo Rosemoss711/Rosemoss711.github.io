@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3bb54914.css",
-    "main.js": "/static/js/main.aed7fefe.js",
+    "main.js": "/static/js/main.fac63c04.js",
     "static/js/787.67b26af0.chunk.js": "/static/js/787.67b26af0.chunk.js",
     "static/media/메인.png": "/static/media/메인.69db48b91d43f9e41ab5.png",
     "static/media/식품리스트.png": "/static/media/식품리스트.9ffe96deeb02df5a9347.png",
@@ -40,11 +40,11 @@
     "static/media/spring-svg": "/static/media/spring-edf462fec682b9d48cf628eaf9e19521.06648761f888d95c060a68377ffd04e8.svg",
     "index.html": "/index.html",
     "main.3bb54914.css.map": "/static/css/main.3bb54914.css.map",
-    "main.aed7fefe.js.map": "/static/js/main.aed7fefe.js.map",
+    "main.fac63c04.js.map": "/static/js/main.fac63c04.js.map",
     "787.67b26af0.chunk.js.map": "/static/js/787.67b26af0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3bb54914.css",
-    "static/js/main.aed7fefe.js"
+    "static/js/main.fac63c04.js"
   ]
 }
